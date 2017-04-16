@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityTest.iml" filepath="$PROJECT_DIR$/ActivityTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listdialog/listdialog.iml" filepath="$PROJECT_DIR$/listdialog/listdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listdialog2/listdialog2.iml" filepath="$PROJECT_DIR$/listdialog2/listdialog2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logindialog/logindialog.iml" filepath="$PROJECT_DIR$/logindialog/logindialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressdialog/progressdialog.iml" filepath="$PROJECT_DIR$/progressdialog/progressdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threebutdialog/threebutdialog.iml" filepath="$PROJECT_DIR$/threebutdialog/threebutdialog.iml" />
+    </modules>
+  </component>
+</project>
